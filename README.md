@@ -15,7 +15,7 @@ Features
 
 Demo
 
-Coming soon on Streamlit Cloud
+[Streamlit Cloud](https://sanyagupta31-ai-shopping-assistant-app-4i6so9.streamlit.app/)
 
 Tech Stack
 
