@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
